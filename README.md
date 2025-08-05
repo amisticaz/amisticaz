@@ -13,7 +13,7 @@
 #
 
 
-<p align="center">Estudante de Ciência da Computação na Faculdade Uniritter. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante de Ciência da Computação na Faculdade Uniritter. Formação em Design gráfico, games e multimídia. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 #
 
