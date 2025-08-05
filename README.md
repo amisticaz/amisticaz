@@ -47,11 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity logo" />
 
   <!-- Design Gráfico e Edição -->
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" alt="Photoshop logo" />
-  <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Capcut_Logo.svg" height="30" alt="CapCut logo" />
-</div>
 
 
 
