@@ -9,6 +9,16 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
+#
+
+![Banner](https://github.com/amisticaz/amisticaz/blob/main/Capa%20Linkedin%20(2).png)
+
+
+<p align="center">
+  <img src="https://github.com/amiticaz/amisticaz/blob/main/Capa%20Linkedin%20(2).png" alt="Capa LinkedIn" />
+</p>
+
+
 
 #
 
