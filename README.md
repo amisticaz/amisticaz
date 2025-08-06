@@ -1,4 +1,4 @@
-# Olá!! Meu nome é Kethelen de Azevedo :)
+# Olá, meu nome é Kethelen de Azevedo :)
 
 
 <div align="center">
